@@ -38,4 +38,6 @@ AWS Glue Crawler Demo
 12.	We can edit the table schema to remove any column, rename any column etc. This will not remove actual data from CSV files
     ![image](https://github.com/user-attachments/assets/6565a080-058e-4e25-85e8-504b0d7e9b86)
 
-   	
+## Acknowledgements
+
+This project was developed based on the concepts and examples provided in the Udemy course "[Data Engineering on AWS - The complete training](https://www.udemy.com/course/data-engineering-on-aws/)" by [Ashish Prajapati]
